@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: okozmej@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: It's not that fun
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okozmey&show_icons=true&count_private=true&hide_border=true)
