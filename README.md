@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my own programming language
+- 🔭 I’m currently working on self-education(passing different courses from MIT, CMU, etc)
 - 🌱 I’m currently learning more about Computer Architecture, Operating Systems, Algorithms, Graphics, Compilers and Programming Languages 
 - 👯 I’m looking to collaborate on anything related to Compilers, Programming Languages, Operating Systems
 - 💬 Ask me about anything!
