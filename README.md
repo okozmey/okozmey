@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on self-education(passing cs-related courses from tier 1 universities).
-- 🌱 I’m currently learning more about Computer Architecture, Operating Systems, Algorithms, Graphics, Compilers and Programming Languages and much more.
+- 🌱 I’m currently learning more about `Computer Architecture`, `Operating Systems`, `Algorithms`, `Graphics`, `Compilers and Programming Languages` and much more.
 - 👯 I’m looking to collaborate on anything related to Compilers, Programming Languages, Operating Systems.
 - 💬 Ask me about anything!
 - 📫 How to reach me: okozmej@gmail.com
